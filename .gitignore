@@ -1,0 +1,12 @@
+.DS_Store
+/.build/
+/.build-*/
+/.swiftpm/
+/Packages/
+*.xcodeproj
+xcuserdata/
+DerivedData/
+/dev-home/
+/.playwright-mcp/
+/.claude/worktrees/
+/foliozero
